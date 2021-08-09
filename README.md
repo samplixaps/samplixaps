@@ -1,0 +1,1 @@
+-This repository serves various scripts for preparing and analysing the sequence data enriched thorugh Samplix's novel Xort technology.
